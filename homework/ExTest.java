@@ -22,7 +22,7 @@ public class ExTest {
 //		}
 		/////////////////////////////////////////
 		VirtualPerson p = new VirtualPerson();
-		CoffeeCup cup = new CoffeeCup(75);	
+		CoffeeCup cup = new CoffeeCup(45);	
 	
 		try {
 			p.drinkCoffee(cup);
